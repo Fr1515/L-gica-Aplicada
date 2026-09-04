@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../exercise34/exercise34.csproj" Id="df7bb8cd-afdd-44b2-a1f5-2707f51cae90" />
+  <Project Path="backened/backened.csproj" />
+</Solution>
