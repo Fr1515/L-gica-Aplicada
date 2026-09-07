@@ -5,4 +5,5 @@
   <Folder Name="/NewFolder1/">
     <Project Path="../Ejercicio 31/Ejercicio 31.csproj" Id="4d614aed-f63d-499e-b35b-74f24851c1b3" />
   </Folder>
+  <Project Path="../Shared/Shared.shproj" Id="851f5462-beff-4101-a7c2-9a116b16e102" />
 </Solution>
